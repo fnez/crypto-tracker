@@ -1,6 +1,6 @@
-# router-app
+# Crypto-tracker
 
-> A Vue.js project
+> A Vue.js project, connnecting to crypto api to dispplay and keep track of digital currencies.
 
 ## Build Setup
 
